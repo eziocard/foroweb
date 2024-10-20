@@ -1,0 +1,24 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+nav {
+  background-color: #282c34;
+  padding: 1rem;
+  display: flex; /* Activa Flexbox */
+  justify-content: center; /* Centra horizontalmente */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  margin: 0; /* Elimina el margen para centrar */
+
+}
+
+a {
+  text-decoration:none;
+  color:white
+}
